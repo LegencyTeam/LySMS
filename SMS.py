@@ -20,10 +20,9 @@ def head():
                 {Fore.RESET}         ██║     ███████╗╚██████╔╝╚██████╔╝██████╔╝    ███████║██║ ╚═╝ ██║███████║
                 {Fore.RESET}         ╚═╝     ╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝     ╚══════╝╚═╝     ╚═╝╚══════╝
                 {Fore.RESET} 
-                {Fore.RESET}                            [ > FLOOD SMS BY Legency < ]                                   
+                {Fore.RESET}                            [ > FLOOD SMS BY LEGENCY < ]                                   
                 {Fore.RESET}                                            
-                {Fore.RESET}               [+] | Usage : [PHONE]
-                {Fore.RESET}               [+] | Amoubt : [AMOUNT]
+                {Fore.RESET}               [+] | Usage : [PHONE] [AMOUNT]
                 {Fore.RESET}               [+] | METHOD : 24 Api                     
                                                                                                                    
                                                                                                                    """)
