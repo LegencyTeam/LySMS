@@ -9,7 +9,7 @@ from requests import get
 os.system('cls')
 
 init(convert=True)
-textcol = f"{Fore.BLACK}"
+textcol = "{Fore.BLACK}"
 
 def head():
     print(f"""{Fore.RED}\n\n
